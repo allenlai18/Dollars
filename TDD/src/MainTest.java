@@ -7,13 +7,12 @@ public class MainTest {
 	@Test
 	public void test() {
 	    String str = "Junit is working fine";
-	      assertEquals("Junit is working fine",str);
-	
-	
+	    assertEquals("Junit is working fine",str);
 	}
 
-	// p. 4  -- test will fail and have compile errors
-	// no Dollar class, no Constructor, no method, no fields
+	
+	// p. 5 - compile errors solved but test still fails
+
 	@Test
 	public void testMultiplication() {
 		Dollar five = new Dollar(5);
