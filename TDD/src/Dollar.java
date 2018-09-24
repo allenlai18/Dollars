@@ -1,12 +1,12 @@
-// class created
+// class created - step 1
 public class Dollar {
 
-	// constructor created 2/4
+	// constructor created - step 2
 	public Dollar(int amount) {
 
 	}
 	
-	// method created 3/4
+	// method created - step 3
 	void times(int multiplier) {
 		
 	}
@@ -14,5 +14,5 @@ public class Dollar {
 	// field created 4/4
 	int amount;
 
-	// compiled problem solved but still fails
+	// compiled problem solved but test still FAILS
 }
