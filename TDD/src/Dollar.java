@@ -8,7 +8,7 @@ public class Dollar {
 		
 	}
 	
-	// fastest way to get the test to pass!
+	// page 6. - Fastest way to get the test to pass!
 	int amount = 10;
 
 }
