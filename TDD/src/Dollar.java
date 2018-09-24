@@ -1,6 +1,10 @@
 
 public class Dollar {
 
+	// Nothing is hard coded now!
+	
+	int amount;
+
 	public Dollar(int amount) {
 		this.amount = amount;
 	}
@@ -9,6 +13,5 @@ public class Dollar {
 		amount *= multiplier;
 	}
 	
-	int amount;
 
 }
